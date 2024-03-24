@@ -63,9 +63,9 @@ function App() {
       <footer className="mt-10 bg-gray-900">
         <div className="container mx-auto max-w-7xl px-5 py-4 sm:px-6">
           <p className="text-center text-sm text-slate-200">
-            Made with{" "}
+            Copyright{" "}
             <span role="img" aria-label="love">
-              ❤️
+              @
             </span>{" "}
             by{" "}
             <a href="https://github.com/Abiiarm" className="text-lime-500 transition duration-100 ease-in-out hover:text-lime-600" target="_blank" rel="noopener noreferrer" title="Abiboy">
